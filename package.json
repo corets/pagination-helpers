@@ -19,7 +19,7 @@
     "/dist"
   ],
   "repository": "github:corets/pagination-helpers",
-  "homepage": "https://corets.github.io/pagination-helpers",
+  "homepage": "https://docs.corets.io/helpers/pagination-helpers",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
